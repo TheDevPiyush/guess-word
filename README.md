@@ -1,7 +1,7 @@
 # About Project
 This app is coded by PiyushDev. Wordy uses two different APIs:
 (i) One for fetching a random English word.
-(ii) One for getting definition about fetched the word.
+(ii) One for getting definition about the fetched word.
 
 GUI (CSS) is coded using Bootstrap 5.0
 
