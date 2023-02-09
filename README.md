@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# About Project
+This app is coded by PiyushDev. Wordy uses two different APIs:
+(i) One for fetching a random English word.
+(ii) One for getting definition about fetched the word.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+GUI (CSS) is coded using Bootstrap 5.0
 
-## Available Scripts
+## The App is Live here : https://wordybyshadow.netlify.app/
 
-In the project directory, you can run:
 
 ### `npm start`
 
