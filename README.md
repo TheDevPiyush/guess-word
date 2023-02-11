@@ -1,12 +1,11 @@
 # About Project
-This app is coded by PiyushDev. Wordy uses two different APIs:
-(i) One for fetching a random English word.
+This app is coded by PiyushDev.<br/> <br/> Wordy uses two different APIs for backend:<br/>
+(i) One for fetching a random English word.<br/>
 (ii) One for getting definition about the fetched word.
-
+<br/><br/>
 GUI (CSS) is coded using Bootstrap 5.0
 
 ## The App is Live here : https://wordybyshadow.netlify.app/
-
 
 ### `npm start`
 
